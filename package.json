@@ -20,10 +20,11 @@
   },
   "devDependencies": {},
   "scripts": {
+    "start": "node bot.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "Bot WhatsApp com Baileys, Gemini e comandos customizados"
 }
